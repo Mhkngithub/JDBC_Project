@@ -7,6 +7,8 @@ public class EU3_Practice {
 
 
         // ı did some change
+
+        // some change
     }
 
 
